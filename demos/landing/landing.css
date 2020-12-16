@@ -517,4 +517,38 @@ body h1, body h2, body h3 {
 .menu-link:hover {
 	color: #f09101 !important;
 }
+
+h3 {
+	font-size: 2rem;
+}
+
+.portfolio-desc h3 {
+	font-size: 1rem;
+}
+
+.portfolio-desc h3 a:hover {
+	color: #f09101;
+}
+
+.content-wrap {
+	padding: 50px 0;
+}
+
+.mx-auto {
+	margin-top: 0 !important;
+}
+
+.btn-reverse {
+	background-color: #f09101 !important;
+	color: #fff !important;
+}
+
+.btn-reverse:hover {
+	background: #343a40 !important;
+	color: #fff !important;
+}
+
+.section-features {
+	padding: 60px 120px;
+}
 	
