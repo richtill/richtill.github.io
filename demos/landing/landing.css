@@ -551,4 +551,8 @@ h3 {
 .section-features {
 	padding: 60px 120px;
 }
+
+.counter.counter-large {
+	font-size: 32px;
+}
 	
